@@ -17,6 +17,6 @@ I'm an AI/ML Software Developer with a passion for solving real-world problems u
 ### 📫 Contact Me
 - Email: yasirabdullah4549@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/mirza-yasir-abdullah-baig/  
-- Portfolio: yasirinsights.com
+- Portfolio: [yasirinsights.com](https://yasirinsights.com/)
 
 Let’s build something intelligent!

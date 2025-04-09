@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mirza Yasir Abdullah Baig 👋
 
-<!--
-**mirzayasirabdullahbaig07/MirzaYasirAbdullahBaig07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML Software Developer with a passion for solving real-world problems using data, code, and intelligent algorithms.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- Develop AI/ML models using Python, scikit-learn, TensorFlow, PyTorch
+- Build end-to-end data pipelines and ML systems
+- Work with computer vision, NLP, and deep learning
+- Write clean, efficient, and production-ready code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Tech
+- Languages: Python, SQL
+- ML Frameworks: Scikit-learn, TensorFlow, PyTorch
+- Tools: Git, GitHub, Docker, VS Code
+- Deployment: Flask, FastAPI, Streamlit
+
+### 📫 Contact Me
+- Email: yasirabdullah4549@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mirza-yasir-abdullah-baig/  
+- Portfolio: yasirinsights.com
+
+Let’s build something intelligent!

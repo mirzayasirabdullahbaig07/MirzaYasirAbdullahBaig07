@@ -9,7 +9,7 @@
 ## 💫 About Me
 **Professional Version:**
 
-I am a Computer Science graduate and AI/ML Engineer, passionate about advancing my skills in Machine Learning, Generative AI, MLOps, and Python-based solutions.
+I am a Computer Science graduate and AI/ML Software Engineer, passionate about advancing my skills in Machine Learning, Generative AI, MLOps, and Python-based solutions.
 
 **More Energetic Version:**
 

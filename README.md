@@ -13,7 +13,7 @@ I am a Computer Science graduate and AI/ML Software Engineer, passionate about a
 
 **More Energetic Version:**
 
-As a Computer Science graduate and AI/ML Engineer, I'm actively exploring Machine Learning, Generative AI, MLOps, and Python to build the future of intelligent technology.
+As a Computer Science graduate and AI/ML Engineer, I'm actively exploring Machine Learning, Generative AI, MLOps, System Design and Python to build the future of intelligent technology.
 
 **Simple & Clear:**
 

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirza Yasir Abdullah Baig</h1>
-<h3 align="center">AI/ML Software Developer | Passionate about solving real-world problems with intelligent algorithms</h3>
+<h3 align="center">Software Engineer | AI/ML Software Developer | Data Structures And Algorithms </h3>
 
 ---
 ## 💫 About Me
@@ -31,7 +31,7 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
 
 ## 🛠️ Tools & Tech
 
-**Languages:** Python, SQL  
+**Languages:** Python, SQL, NoSQL
 **Frameworks:** Scikit-learn, TensorFlow, PyTorch, Flask, FastAPI, Streamlit  
 **Tools:** Git, GitHub, Docker, VS Code  
 **Deployment:** AWS, Azure, Google Cloud, Flask APIs, Streamlit Apps
@@ -47,16 +47,17 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.behance.net/yasirmirza07"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white&style=for-the-badge" alt="Behance"/></a>
-  <a href="https://www.facebook.com/yasirmirza07/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/yasirmirza07/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
+  
   <a href="https://www.linkedin.com/in/mirza-yasir-abdullah-baig/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://linktr.ee/mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/Linktree-43E55E?logo=Linktree&logoColor=white&style=for-the-badge" alt="Linktree"/></a>
+  <a href="https://leetcode.com/u/mirzayasirabdullahbaig/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/mirzayasirabdullahbaig/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks"/></a>
+  <a href="https://www.kaggle.com/mirzayasirabdullah07/code"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
+  <a href="https://lablab.ai/u/@mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/LaBLab.ai-000000?logo=data:image/svg+xml;base64,...&style=for-the-badge" alt="LaBLab.ai"/></a>
   <a href="https://medium.com/@yasirinsights"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/></a>
-  <a href="https://www.pinterest.com/yasirinsights07/"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=Pinterest&logoColor=white&style=for-the-badge" alt="Pinterest"/></a>
-  <a href="https://www.quora.com/profile/Yasir-Insights"><img src="https://img.shields.io/badge/Quora-B92B27?logo=Quora&logoColor=white&style=for-the-badge" alt="Quora"/></a>
-  <a href="https://www.youtube.com/@yasirinsights"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
   <a href="mailto:yasirabdullah4549@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
+
 
 ---
 

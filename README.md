@@ -31,9 +31,9 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
 
 ## 🛠️ Tools & Tech
 
-**Languages:** Python, SQL, NoSQL
+**Languages:** Python, SQL, NoSQL, NoSQL
 **Frameworks:** Scikit-learn, TensorFlow, PyTorch, Flask, FastAPI, Streamlit  
-**Tools:** Git, GitHub, Docker, VS Code  
+**Tools:** Git, GitHub, Docker, VS Code, Jupyter NoteBook, Google Colab  
 **Deployment:** AWS, Azure, Google Cloud, Flask APIs, Streamlit Apps
 
 ---

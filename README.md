@@ -100,6 +100,6 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&theme=redical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&theme=tokyo" alt="Contribution Graph" />
 </p>
 

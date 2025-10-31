@@ -99,7 +99,3 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
   <img src="https://komarev.com/ghpvc/?username=mirzayasirabdullahbaig07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&theme=tokyo" alt="Contribution Graph" />
-</p>
-

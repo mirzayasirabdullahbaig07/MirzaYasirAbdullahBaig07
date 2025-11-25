@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirza Yasir Abdullah Baig</h1>
-<h3 align="center">Software Engineer | AI/ML Software Engineer | Data Structures And Algorithms </h3>
+<h3 align="center">Software Engineer | AI/ML Software Engineer | DSA Expert </h3>
 
 ---
 ## 💫 About Me

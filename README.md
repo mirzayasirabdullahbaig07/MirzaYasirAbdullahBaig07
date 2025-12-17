@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f7/50/4e/f7504e20e7155a3aa69a78b9e25ea3a3.gif" alt="Coding" width="80%" />
+  <img src="https://i.pinimg.com/originals/f7/50/4e/f7504e20e7155a3aa69a78b9e25ea3a3.gif" alt="Coding" width="80%" />`
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirza Yasir Abdullah Baig</h1>

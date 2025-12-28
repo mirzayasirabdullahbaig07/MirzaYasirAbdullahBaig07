@@ -54,7 +54,7 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
   <a href="https://www.geeksforgeeks.org/user/mirzayasirabdullahbaig/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks"/></a>
   <a href="https://www.kaggle.com/mirzayasirabdullah07/code"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
   <a href="https://lablab.ai/u/@mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/LaBLab.ai-000000?logo=data:image/svg+xml;base64,...&style=for-the-badge" alt="LaBLab.ai"/></a>
-  <a href="https://medium.com/@yasirinsights"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/></a>
+  <a href="https://medium.com/@mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/></a>
   <a href="mailto:yasirabdullah4549@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
 

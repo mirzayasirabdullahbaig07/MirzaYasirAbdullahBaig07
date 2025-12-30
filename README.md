@@ -51,7 +51,6 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
   <a href="https://www.linkedin.com/in/mirza-yasir-abdullah-baig/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://linktr.ee/mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/Linktree-43E55E?logo=Linktree&logoColor=white&style=for-the-badge" alt="Linktree"/></a>
   <a href="https://leetcode.com/u/mirzayasirabdullahbaig/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/user/mirzayasirabdullahbaig/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks"/></a>
   <a href="https://www.kaggle.com/mirzayasirabdullah07/code"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
   <a href="https://lablab.ai/u/@mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/LaBLab.ai-000000?logo=data:image/svg+xml;base64,...&style=for-the-badge" alt="LaBLab.ai"/></a>
   <a href="https://medium.com/@mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/></a>

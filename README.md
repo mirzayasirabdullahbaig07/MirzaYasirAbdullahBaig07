@@ -85,7 +85,7 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzayasirabdullahbaig07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzayasirabdullahbaig07&theme=dark&hide_border=false&date_format=M%20j[,Y]&cache_seconds=1800" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzayasirabdullahbaig07&theme=dark&hide_border=false&date_format=M%20j[,Y]&cache_seconds=1800" /> -->
 </div>
 
 

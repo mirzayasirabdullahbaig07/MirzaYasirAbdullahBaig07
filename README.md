@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mirza Yasir Abdullah Baig</h1>
 
-<h3 align="center">AI/ML Engineer | Software Engineer | Python Developer | 10× Intr. Hackathons | Generative AI Content Creator | DSA Specialist | Kaggle Competitor </h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | Python Developer | 10× Intr. Hackathons | Generative AI Content Creator | DSA Specialist | 10x Kaggle Competitor </h3>
 
 ---
 ## 💫 About Me

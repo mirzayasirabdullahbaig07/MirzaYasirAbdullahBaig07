@@ -76,7 +76,7 @@ Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Lin
 
 - **Kaggle Grandmaster ×2 | Top 1% LinkedIn AI Content Creator**  
 - **Selected in Stanford Code in Place Program** among 30,000+ applicants  
-- **Top 4.2% LeetCode users** | Solved 100+ problems  
+- **Top 1% LeetCode users** | Solved 150+ problems  
 - **Hackathon Experience:** Agentic Commerce, AI Genesis, Co-Creating with GPT-5  
 
 ---

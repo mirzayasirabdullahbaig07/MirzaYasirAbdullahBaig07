@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-Mirza Yasir Abdullah Baig is an **AI** and **Machine Learning Engineer** from **Pakistan**, recognized for his expertise in **generative AI, deep learning, and data-driven intelligent systems**. With a strong foundation in **computer science, data structures, algorithms, and programming***, he has carved a niche for himself in **AI research, applied machine learning, and full-stack software engineering**. Mirza Yasir Abdullah Baig is not only a problem solver but also a **mentor, educator, and prolific content creato**r in the AI and tech space.
+Mirza Yasir Abdullah Baig is an **AI** and **Machine Learning Engineer** from **Pakistan**, recognized for his expertise in **generative AI, deep learning, and data-driven intelligent systems**. With a strong foundation in **computer science, data structures, algorithms, and programming***, he has carved a niche for himself in **AI research, applied machine learning, and full-stack software engineering**. Mirza Yasir Abdullah Baig is not only a problem solver but also a **mentor, educator, and prolific content creator** in the AI and tech space.
 
 - **CGPA:** 3.11/4.00  
 - **Expertise:** Python, AI/ML, Generative AI, DSA, MLOps, Object-Oriented Programming  

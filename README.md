@@ -114,7 +114,7 @@ Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Lin
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzayasirabdullahbaig07&theme=dark&show_icons=true&include_all_commits=true&count_private=false" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzayasirabdullahbaig07&theme=dark&hide_border=false&date_format=M%20j" height="180em" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzayasirabdullahbaig07&theme=dark&hide_border=false&date_format=M%20j" height="180em" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayasirabdullahbaig07&layout=compact&theme=dark&hide_border=false" height="180em" />
 </div>
 

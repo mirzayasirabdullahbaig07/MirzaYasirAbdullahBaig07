@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Mirza Yasir Abdullah Baig
 
-### AI/ML Engineer | Software Engineer | Python Developer | Generative AI Creator | DSA & ML Expert | 2x Kaggle Grandmaster | Top 1% LinkedIn AI Content Creator
+### AI/ML Engineer | Kaggle Grandmaster | 10× Hackathons & Kaggle Competitions | GenAI Content Creator | 150+ LeetCode | 11k+ @iCodeGuru
 
 ---
 

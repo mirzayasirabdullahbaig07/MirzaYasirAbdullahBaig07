@@ -52,7 +52,7 @@ Mirza Yasir Abdullah Baig is an **AI** and **Machine Learning Engineer** from **
 ## 🎓 Education
 
 **The University of Lahore – Bachelor of Science in Computer Science**  
-**Sargodha, Pakistan | Nov 2019 – Aug 2023**  
+**Pakistan | Nov 2019 – Aug 2023**  
 Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Linear Algebra, Probability & Statistics, Database Systems, Software Engineering, Computer Networks.
 
 **Final Year Project:** *Smart Rescue & Emergency Alert Android App*  

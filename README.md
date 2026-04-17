@@ -67,8 +67,8 @@ Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Lin
 - **[Stock Market Trend Prediction](https://github.com/mirzayasirabdullahbaig07/StockMarket-Trend-Prediction-Model)** – LSTM model with interactive Streamlit demo  
 - **[Rice Disease Prediction](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model)** – CNN-based model with real-time leaf image analysis (~95% accuracy)  
 - **[Sentiment Analysis](https://github.com/mirzayasirabdullahbaig07/Sentiment_Analysis_Model)** – ML + DL hybrid models for binary sentiment classification (~85–90% accuracy)  
-- **AIaaS Billing System** – Token-based AI monetization system using Google Gemini/PaLM & Streamlit  
-- **RAG Pipeline for AI Genesis Hackathon** – Retrieval-Augmented Generation system for website data queries  
+- **[AIaaS Billing System](https://github.com/mirzayasirabdullahbaig07/AgentPay)** – Token-based AI monetization system using Google Gemini/PaLM & Streamlit  
+- **[RAG Pipeline for AI Genesis Hackathon](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project)** – Retrieval-Augmented Generation system for website data queries  
 
 ---
 

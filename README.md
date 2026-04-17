@@ -63,7 +63,7 @@ Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Lin
 
 ## 💻 Selected Projects
 
-- **Image Classification (CIFAR-10)** – CNN model with Streamlit app (~80–85% accuracy)  
+- **[Image Classification (CIFAR-10)](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model)** – CNN model with Streamlit app (~80–85% accuracy)  
 - **Stock Market Trend Prediction** – LSTM model with interactive Streamlit demo  
 - **Rice Disease Prediction** – CNN-based model with real-time leaf image analysis (~95% accuracy)  
 - **Sentiment Analysis** – ML + DL hybrid models for binary sentiment classification (~85–90% accuracy)  

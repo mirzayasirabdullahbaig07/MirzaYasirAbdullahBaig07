@@ -74,8 +74,8 @@ Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Lin
 
 ## 🏆 Achievements & Awards
 
-- **Kaggle Grandmaster ×2 | Top 1% LinkedIn AI Content Creator**  
-- **Selected in Stanford Code in Place Program** among 30,000+ applicants  
+- **[Kaggle Grandmaster ×2](https://www.kaggle.com/mirzayasirabdullah07) | [Top 1% LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/) AI Content Creator**  
+- **Selected Twice in [Stanford Code in Place](https://codeinplace.stanford.edu/cip5/certificate/hyahck) Program** among 66,000+ applicants  
 - **Top 1% LeetCode users** | Solved 150+ problems  
 - **Hackathon Experience:** Agentic Commerce, AI Genesis, Co-Creating with GPT-5  
 

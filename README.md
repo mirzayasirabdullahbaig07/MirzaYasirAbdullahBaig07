@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Mirza Yasir Abdullah Baig
 
-### AI/ML Engineer | Kaggle Grandmaster | 20+ Hackathons & Kaggle Competitions | GenAI Content Creator | 150+ LeetCode | 11k+ @iCodeGuru
+### AI/ML Engineer | Kaggle Grandmaster | 30+ Hackathons & Kaggle Competitions | GenAI Content Creator | 150+ LeetCode | 12k+ @iCodeGuru
 
 ---
 

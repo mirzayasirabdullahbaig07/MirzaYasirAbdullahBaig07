@@ -74,7 +74,13 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 </td>
 <td align="center" width="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayasirabdullahbaig07&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=a8b2d8" width="240"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-★★★☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -194,14 +200,33 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 <div align="center">
 
-| 🏆 | Achievement |
-|:--:|-------------|
-| 🥇 | **Kaggle Grandmaster ×2** — Datasets & Notebooks |
-| 📌 | **Top 1% LinkedIn** AI Content Creator |
-| 🎓 | **Stanford Code in Place** — Selected Twice (66,000+ applicants) |
-| 💻 | **Top 1% LeetCode** — 150+ problems solved |
-| 🚀 | **30+ Hackathons** — Agentic Commerce, AI Genesis, GPT-5 & more |
-| 🧑‍🏫 | **12,000+ Students Mentored** @iCodeGuru & DSGuru |
+### 🏅 &nbsp; Hall of Fame
+
+<br/>
+
+![Kaggle Grandmaster](https://img.shields.io/badge/🥇%20Kaggle%20Grandmaster%20×2-Datasets%20%26%20Notebooks-FFD700?style=for-the-badge&labelColor=1a1a2e)
+![LinkedIn Top 1%](https://img.shields.io/badge/📌%20LinkedIn%20Top%201%25-AI%20Content%20Creator-0A66C2?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+![Stanford](https://img.shields.io/badge/🎓%20Stanford%20Code%20in%20Place-Selected%20Twice%20%7C%2066k%2B%20Applicants-8B0000?style=for-the-badge&labelColor=1a1a2e)
+![LeetCode](https://img.shields.io/badge/💻%20LeetCode%20Top%201%25-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+![Hackathons](https://img.shields.io/badge/🚀%2030%2B%20Hackathons-Agentic%20Commerce%20%7C%20AI%20Genesis%20%7C%20GPT--5-60a5fa?style=for-the-badge&labelColor=1a1a2e)
+![Mentorship](https://img.shields.io/badge/🧑‍🏫%2012%2C000%2B%20Students%20Mentored-iCodeGuru%20%26%20DSGuru-22c55e?style=for-the-badge&labelColor=1a1a2e)
+
+<br/><br/>
+
+| 🏆 | Achievement | 🎯 Impact |
+|:---:|:---|:---:|
+| 🥇 | **`KAGGLE GRANDMASTER ×2`** — Datasets & Notebooks | 🌍 Global Top Tier |
+| 📌 | **`TOP 1% LINKEDIN`** — AI Content Creator | 📢 Massive Reach |
+| 🎓 | **`STANFORD CODE IN PLACE`** — Selected Twice | 🎯 66,000+ Applicants |
+| 💻 | **`TOP 1% LEETCODE`** — 150+ Problems Solved | ⚡ Elite Coder |
+| 🚀 | **`30+ HACKATHONS`** — Agentic Commerce, AI Genesis & more | 🏅 Proven Builder |
+| 🧑‍🏫 | **`12,000+ STUDENTS MENTORED`** — @iCodeGuru & DSGuru | 💡 Community Leader |
 
 </div>
 
@@ -211,14 +236,35 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirzayasirabdullahbaig07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=2563eb&text_color=a8b2d8&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
+<!-- Row 1: Streak full width -->
+<img width="70%" src="https://streak-stats.demolab.com?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+<!-- Row 2: Three cards side by side -->
+<table width="100%" border="0" cellspacing="4" cellpadding="0">
+<tr>
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirzayasirabdullahbaig07&theme=tokyonight" />
+</td>
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirzayasirabdullahbaig07&theme=tokyonight" />
+</td>
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirzayasirabdullahbaig07&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&bg_color=0d1117&color=60a5fa&line=2563eb&point=f59e0b&area=true&hide_border=true&area_color=1e3a5f" />
+<br/>
+
+<!-- Row 3: Profile details full width -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzayasirabdullahbaig07&theme=tokyonight" />
+
+<br/>
+
+<!-- Row 4: Contribution heatmap -->
+<img width="100%" src="https://ghchart.rshah.org/60a5fa/mirzayasirabdullahbaig07" />
 
 </div>
 

@@ -1,116 +1,285 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f7/50/4e/f7504e20e7155a3aa69a78b9e25ea3a3.gif" alt="Coding" width="80%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Mirza%20Yasir%20Abdullah%20Baig&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Kaggle%20Grandmaster%20%E2%80%A2%20GenAI%20Content%20Creator&descAlignY=58&descSize=18&descColor=60a5fa"/>
 
-# Hi 👋, I'm Mirza Yasir Abdullah Baig
+<div align="center">
 
-### AI/ML Engineer | Kaggle Grandmaster | 30+ Hackathons & Kaggle Competitions | GenAI Content Creator | 150+ LeetCode | 12k+ @iCodeGuru
+<a href="https://github.com/mirzayasirabdullahbaig07">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+%C3%972+%7C+Top+1%25+LeetCode;%F0%9F%9A%80+30%2B+Hackathons+%26+Kaggle+Competitions;%F0%9F%93%9A+12k%2B+Students+Mentored+%40+iCodeGuru;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## 💫 About Me
+[![GitHub](https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/mirzayasirabdullahbaig07)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://www.kaggle.com/mirzayasirabdullah07)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=60a5fa)](https://yasirinsights.com/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=60a5fa)](https://leetcode.com/u/mirzayasirabdullahbaig/)
+[![Medium](https://img.shields.io/badge/-Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=60a5fa)](https://medium.com/@mirzayasirabdullahbaig)
 
-Mirza Yasir Abdullah Baig is an **AI** and **Machine Learning Engineer** from **Pakistan**, recognized for his expertise in **generative AI, deep learning, and data-driven intelligent systems**. With a strong foundation in **computer science, data structures, algorithms, and programming***, he has carved a niche for himself in **AI research, applied machine learning, and full-stack software engineering**. Mirza Yasir Abdullah Baig is not only a problem solver but also a **mentor, educator, and prolific content creator** in the AI and tech space.
+<br/>
 
-- **CGPA:** 3.11/4.00  
-- **Expertise:** Python, AI/ML, Generative AI, DSA, MLOps, Object-Oriented Programming  
-- **Location:** Pakistan  
+![Profile Views](https://komarev.com/ghpvc/?username=mirzayasirabdullahbaig07&color=2563eb&style=flat-square&label=Profile+Visitors)
+![GitHub followers](https://img.shields.io/github/followers/mirzayasirabdullahbaig07?style=flat-square&color=2563eb&label=Followers)
 
----
+<br/>
 
-## 🚀 What I Do
-- 🧠 Build AI/ML and deep learning models using **Python, TensorFlow, PyTorch, Scikit-learn**  
-- 🛠️ Develop end-to-end **data pipelines** and **AI systems**  
-- 🖼️ Work on **Computer Vision, NLP, and Generative AI** projects  
-- 🧹 Write **clean, efficient, production-ready code**  
-- 👩‍🏫 Mentor & train students in AI, Python, and Data Science  
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>
+</div>
 
 ---
 
-## 🎓 Education
+## ◈ &nbsp; Who Am I?
 
-**The University of Lahore – Bachelor of Science in Computer Science**  
-**Pakistan | Nov 2019 – Aug 2023**  
-Relevant coursework: Data Structures & Algorithms, OOP, AI, ML Fundamentals, Linear Algebra, Probability & Statistics, Database Systems, Software Engineering, Computer Networks.
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-**Final Year Project:** *Smart Rescue & Emergency Alert Android App*  
-- Developed an Android app using Java, Firebase, Google Maps API for driver safety and emergency alerts  
-- Integrated GPS tracking, automated emergency messages, and real-time hospital/police navigation  
+```yaml
+name:         Mirza Yasir Abdullah Baig
+role:         AI/ML Engineer & GenAI Content Creator
+expertise:    Generative AI · Deep Learning · MLOps
+recognition:  Kaggle Grandmaster ×2 | Top 1% LeetCode
+achievements: 30+ Hackathons | Stanford Code in Place (×2)
+mentorship:   12,000+ Students @iCodeGuru & DSGuru
+location:     Lahore, Pakistan 🇵🇰
+website:      yasirinsights.com
+status:       Building. Competing. Mentoring. Growing.
+```
 
----
+<br/>
 
-## 💻 Selected Projects
+I don't just write code — I **engineer intelligence**.
 
-- **[Image Classification (CIFAR-10)](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model)** – CNN model with Streamlit app (~80–85% accuracy)  
-- **[Stock Market Trend Prediction](https://github.com/mirzayasirabdullahbaig07/StockMarket-Trend-Prediction-Model)** – LSTM model with interactive Streamlit demo  
-- **[Rice Disease Prediction](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model)** – CNN-based model with real-time leaf image analysis (~95% accuracy)  
-- **[Sentiment Analysis](https://github.com/mirzayasirabdullahbaig07/Sentiment_Analysis_Model)** – ML + DL hybrid models for binary sentiment classification (~85–90% accuracy)  
-- **[AIaaS Billing System](https://github.com/mirzayasirabdullahbaig07/AgentPay)** – Token-based AI monetization system using Google Gemini/PaLM & Streamlit  
-- **[RAG Pipeline for AI Genesis Hackathon](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project)** – Retrieval-Augmented Generation system for website data queries  
+From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guiding 12,000+ students in AI, I push boundaries with every model, every commit, and every lesson.
 
----
+> *"Every dataset tells a story. Every model reveals it. Every deployment makes it matter."*
 
-## 🏆 Achievements & Awards
-
-- **[Kaggle Grandmaster ×2](https://www.kaggle.com/mirzayasirabdullah07) | [Top 1% LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/) AI Content Creator**  
-- **Selected Twice in [Stanford Code in Place](https://codeinplace.stanford.edu/cip5/certificate/hyahck) Program** among 66,000+ applicants  
-- **[Top 1% LeetCode users](https://leetcode.com/u/mirzayasirabdullahbaig/)** | Solved 150+ problems  
-- **Hackathon Experience:** **[Agentic Commerce](https://lablab.ai/u/@mirzayasirabdullahbaig/ai-hackathons/agentic-commerce-on-arc/certificate)**, **[AI Genesis](https://lablab.ai/u/@mirzayasirabdullahbaig/ai-hackathons/ai-genesis/certificate)**, **[Co-Creating with GPT-5](https://lablab.ai/u/@mirzayasirabdullahbaig/ai-hackathons/co-creating-with-gpt-5/certificate)**  
+<br clear="right"/>
 
 ---
 
-## 🧑‍🏫 Mentorship & Teaching
+## ◈ &nbsp; About Me
 
-- **DSGuru & iCodeGuru** – Mentored 50+ students in Python, AI/ML, and DSA  
-- Developed structured notes, hands-on exercises, quizzes, and real-world projects  
-- Focused on building problem-solving skills and job-ready AI expertise  
+<table>
+<tr>
+<td>
 
----
+🎓 &nbsp; **BS Computer Science** — University of Lahore (CGPA: 3.11/4.0)<br/>
+🏆 &nbsp; **Kaggle Grandmaster ×2** | Top 1% AI Content Creator on LinkedIn<br/>
+🧠 &nbsp; Expert in **Generative AI, Deep Learning & Computer Vision**<br/>
+🛠️ &nbsp; Building **end-to-end AI pipelines** and production-grade ML systems<br/>
+🧑‍🏫 &nbsp; Mentored **50+ students** in Python, AI/ML, and DSA<br/>
+💻 &nbsp; Solved **150+ LeetCode** problems | Top 1% globally<br/>
+🎯 &nbsp; Selected **Twice** for **Stanford Code in Place** (66,000+ applicants)<br/>
+⚡ &nbsp; Fun fact: I've competed in **30+ hackathons** and counting!
 
-## 📫 Contact Me
+</td>
+<td align="center" width="300">
 
-- Email: [yasirabdullah4549@gmail.com](mailto:yasirabdullah4549@gmail.com)  
-- LinkedIn: [mirza-yasir-abdullah-baig](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- Portfolio: [yasirinsights.com](https://yasirinsights.com/)  
-- GitHub: [mirzayasirabdullahbaig07](https://github.com/mirzayasirabdullahbaig07)  
-- Kaggle: [mirzayasirabdullah07](https://www.kaggle.com/mirzayasirabdullah07)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayasirabdullahbaig07&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=a8b2d8" width="240"/>
 
----
-
-## 🌐 Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/mirza-yasir-abdullah-baig/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linktr.ee/mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/Linktree-43E55E?logo=Linktree&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://leetcode.com/u/mirzayasirabdullahbaig/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.kaggle.com/mirzayasirabdullah07/code"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://medium.com/@mirzayasirabdullahbaig"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:yasirabdullah4549@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirzayasirabdullahbaig07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## ◈ &nbsp; Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=005571)
+
+<br/>
+
+### AI / ML / Deep Learning
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+<br/>
+
+### Cloud & MLOps & Databases
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=MicrosoftAzure&logoColor=0078D4)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+
+<br/>
+
+### Tools & Environment
+<br/>
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-5519-4bbb-b09c-acee9d5b9f2b.gif" width="80">
+
+</div>
+
+---
+
+## ◈ &nbsp; AI Journey & Roadmap
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║               🚀  MY PATH FROM CODE TO INTELLIGENCE               ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   PHASE 1 ✅   Core Foundations                                   ║
+║   ──────────   Python · C++ · OOP · DSA · Git · Databases         ║
+║                BS Computer Science @ University of Lahore          ║
+║                                                                   ║
+║   PHASE 2 ✅   Machine Learning & Data Science                    ║
+║   ──────────   Scikit-learn · NumPy · Pandas · Matplotlib         ║
+║                Kaggle Grandmaster ×2 | 30+ Competitions            ║
+║                                                                   ║
+║   PHASE 3 ✅   Deep Learning & Computer Vision                    ║
+║   ──────────   TensorFlow · PyTorch · CNNs · LSTMs · NLP          ║
+║                95%+ model accuracy | Real-world deployments        ║
+║                                                                   ║
+║   PHASE 4 🔄   Generative AI & MLOps  (IN PROGRESS)              ║
+║   ──────────   LLMs · RAG Pipelines · Agents · Cloud Deployment   ║
+║                Building intelligent production-ready AI systems    ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ◈ &nbsp; Featured Projects
+
+<div align="center">
+
+| 🔬 Project | 🛠️ Tech | 🎯 Highlights |
+|:-----------|---------|--------------|
+| 🖼️ [Image Classification (CIFAR-10)](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model) | CNN · Streamlit | ~80–85% accuracy |
+| 📈 [Stock Market Trend Prediction](https://github.com/mirzayasirabdullahbaig07/StockMarket-Trend-Prediction-Model) | LSTM · Streamlit | Interactive demo |
+| 🌾 [Rice Disease Prediction](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) | CNN · Real-time analysis | ~95% accuracy |
+| 💬 [Sentiment Analysis](https://github.com/mirzayasirabdullahbaig07/Sentiment_Analysis_Model) | ML + DL Hybrid | ~85–90% accuracy |
+| 💰 [AIaaS Billing System](https://github.com/mirzayasirabdullahbaig07/AgentPay) | Gemini · Streamlit | Token-based AI monetization |
+| 🔍 [RAG Pipeline (AI Genesis)](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project) | RAG · LLM | Hackathon finalist project |
+
+</div>
+
+---
+
+## ◈ &nbsp; Achievements & Recognition
+
+<div align="center">
+
+| 🏆 | Achievement |
+|:--:|-------------|
+| 🥇 | **Kaggle Grandmaster ×2** — Datasets & Notebooks |
+| 📌 | **Top 1% LinkedIn** AI Content Creator |
+| 🎓 | **Stanford Code in Place** — Selected Twice (66,000+ applicants) |
+| 💻 | **Top 1% LeetCode** — 150+ problems solved |
+| 🚀 | **30+ Hackathons** — Agentic Commerce, AI Genesis, GPT-5 & more |
+| 🧑‍🏫 | **12,000+ Students Mentored** @iCodeGuru & DSGuru |
+
+</div>
+
+---
+
+## ◈ &nbsp; GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirzayasirabdullahbaig07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=2563eb&text_color=a8b2d8&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirzayasirabdullahbaig07&bg_color=0d1117&color=60a5fa&line=2563eb&point=f59e0b&area=true&hide_border=true&area_color=1e3a5f" />
+
+</div>
+
+---
+
+## ◈ &nbsp; Currently Working On
+
+<div align="center">
+
+| 🔬 | What | Why |
+|:--:|------|-----|
+| 🤖 | Advanced Generative AI & LLM systems | Next frontier in AI engineering |
+| 🧪 | RAG pipelines & AI Agents | Production-grade intelligent apps |
+| 📊 | Kaggle competitions & open datasets | Stay sharp, stay competitive |
+| 🧑‍🏫 | AI mentorship & content creation | Give back to the community |
+| ☁️ | MLOps & cloud-based model deployment | Bridge research and production |
+
+</div>
+
+---
+
+## ◈ &nbsp; Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+</div>
+
+---
+
+## ◈ &nbsp; Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mirza-yasir-abdullah-baig/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/mirzayasirabdullah07">
+  <img src="https://img.shields.io/badge/Kaggle-Grandmaster-60a5fa?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://yasirinsights.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-60a5fa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:yasirabdullah4549@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-60a5fa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://linktr.ee/mirzayasirabdullahbaig">
+  <img src="https://img.shields.io/badge/Linktree-All%20Links-60a5fa?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+💬 &nbsp; *Open to AI/ML collaborations, research projects, and speaking opportunities!*
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=130&section=footer&text=Build.%20Compete.%20Mentor.%20Repeat.&fontSize=22&fontColor=60a5fa&animation=twinkling&fontAlignY=65"/>

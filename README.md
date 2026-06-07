@@ -58,33 +58,15 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 ## ◈ &nbsp; About Me
 
-<table>
-<tr>
-<td>
+Mirza Yasir Abdullah Baig is an AI and Machine Learning Engineer from Pakistan with a strong passion for Generative AI, Deep Learning, Data Science, and Software Engineering. He specializes in building intelligent systems, developing machine learning solutions, and applying AI to solve real-world problems.
 
-🎓 &nbsp; **BS Computer Science** — University of Lahore (CGPA: 3.11/4.0)<br/>
-🏆 &nbsp; **Kaggle Grandmaster ×2** | Top 1% AI Content Creator on LinkedIn<br/>
-🧠 &nbsp; Expert in **Generative AI, Deep Learning & Computer Vision**<br/>
-🛠️ &nbsp; Building **end-to-end AI pipelines** and production-grade ML systems<br/>
-🧑‍🏫 &nbsp; Mentored **50+ students** in Python, AI/ML, and DSA<br/>
-💻 &nbsp; Solved **150+ LeetCode** problems | Top 1% globally<br/>
-🎯 &nbsp; Selected **Twice** for **Stanford Code in Place** (66,000+ applicants)<br/>
-⚡ &nbsp; Fun fact: I've competed in **30+ hackathons** and counting!
+With a solid foundation in Computer Science, Data Structures & Algorithms, Python, and modern AI frameworks, Mirza Yasir Abdullah Baig has worked on projects spanning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Generative AI. His expertise includes designing scalable AI applications, building ML pipelines, optimizing models, and transforming data into actionable insights.
 
-</td>
-<td align="center" width="300">
+Beyond technical development, Mirza Yasir Abdullah Baig is an active participant in global AI and technology competitions. He has participated in numerous hackathons and innovation challenges on platforms such as Kaggle, Devpost, HackerRank, and LabLab.ai, collaborating with talented developers, researchers, and entrepreneurs from around the world. He has also taken part in competitive programming and coding competitions organized by prestigious institutions and communities, including MIT, Harvard, and Calico.
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+As a dedicated AI Engineer, Mirza Yasir Abdullah Baig maintains an active presence across leading technology and data science platforms, continuously expanding his knowledge through competitions, research, and hands-on development. His involvement in Kaggle competitions, hackathons, and AI challenges reflects his commitment to lifelong learning and staying at the forefront of emerging technologies.
 
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-★★★☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
+Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI Software Engineer, leveraging Machine Learning, Deep Learning, and Generative AI to create innovative solutions with real-world impact. He is always open to collaborating with fellow engineers, researchers, startups, and organizations that share a passion for artificial intelligence and technological innovation.
 
 ---
 

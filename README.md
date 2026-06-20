@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/mirzayasirabdullahbaig07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+%C3%972+%7C+Top+1%25+LeetCode;%F0%9F%9A%80+30%2B+Hackathons+%26+Kaggle+Competitions;%F0%9F%93%9A+12k%2B+Students+Mentored+%40+iCodeGuru;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+%C3%972+%7C+Top+1%25+LeetCode;%F0%9F%9A%80+30%2B+Hackathons+%26+Kaggle+Competitions;%F0%9F%93%9A+13k%2B+Students+Mentored+%40+iCodeGuru;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>

@@ -154,27 +154,27 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 ## ◈ &nbsp; AI Journey & Roadmap
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║               🚀  MY PATH FROM CODE TO INTELLIGENCE               ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║   PHASE 1 ✅   Core Foundations                                   ║
-║   ──────────   Python · C++ · OOP · DSA · Git · Databases         ║
-║                BS Computer Science @ University of Lahore          ║
-║                                                                   ║
-║   PHASE 2 ✅   Machine Learning & Data Science                    ║
-║   ──────────   Scikit-learn · NumPy · Pandas · Matplotlib         ║
-║                Kaggle Grandmaster ×2 | 30+ Competitions            ║
-║                                                                   ║
-║   PHASE 3 ✅   Deep Learning & Computer Vision                    ║
-║   ──────────   TensorFlow · PyTorch · CNNs · LSTMs · NLP          ║
-║                95%+ model accuracy | Real-world deployments        ║
-║                                                                   ║
-║   PHASE 4 🔄   Generative AI & MLOps  (IN PROGRESS)              ║
-║   ──────────   LLMs · RAG Pipelines · Agents · Cloud Deployment   ║
-║                Building intelligent production-ready AI systems    ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════
+║               🚀  MY PATH FROM CODE TO INTELLIGENCE               
+╠═══════════════════════════════════════════════════════════════════
+║                                                                    
+║   PHASE 1 ✅   Core Foundations                                    
+║   ──────────   Python · C++ · OOP · DSA · Git · Databases           
+║                BS Computer Science @ University of Lahore          
+║                                                                   
+║   PHASE 2 ✅   Machine Learning & Data Science                    
+║   ──────────   Scikit-learn · NumPy · Pandas · Matplotlib         
+║                Kaggle Grandmaster ×2 | 30+ Competitions            
+║                                                                   
+║   PHASE 3 ✅   Deep Learning & Computer Vision                    
+║   ──────────   TensorFlow · PyTorch · CNNs · LSTMs · NLP          
+║                95%+ model accuracy | Real-world deployments        
+║                                                                   
+║   PHASE 4 🔄   Generative AI & MLOps  (IN PROGRESS)              
+║   ──────────   LLMs · RAG Pipelines · Agents · Cloud Deployment   
+║                Building intelligent production-ready AI systems    
+║                                                                   
+╚═══════════════════════════════════════════════════════════════════
 ```
 
 ---

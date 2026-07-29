@@ -29,7 +29,6 @@ Track my competitive programming rankings, university standing, and coding achie
 
 [![GitHub](https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/mirzayasirabdullahbaig07)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://www.kaggle.com/mirzayasirabdullah07)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=60a5fa)](https://yasirinsights.com/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=60a5fa)](https://leetcode.com/u/mirzayasirabdullahbaig/)
 [![Medium](https://img.shields.io/badge/-Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=60a5fa)](https://medium.com/@mirzayasirabdullahbaig)
@@ -55,7 +54,7 @@ Track my competitive programming rankings, university standing, and coding achie
 name:         Mirza Yasir Abdullah Baig
 role:         AI/ML Engineer & GenAI Content Creator
 expertise:    Generative AI · Deep Learning · MLOps
-recognition:  Kaggle Grandmaster ×2 | Top 1% LeetCode
+recognition:  Kaggle Grandmaster | Top 1% LeetCode
 achievements: 30+ Hackathons | Stanford Code in Place (×2)
 mentorship:   12,000+ Students @iCodeGuru & DSGuru
 location:     Lahore, Pakistan 🇵🇰
@@ -165,7 +164,7 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 ║                                                                   
 ║   PHASE 2 ✅   Machine Learning & Data Science                    
 ║   ──────────   Scikit-learn · NumPy · Pandas · Matplotlib         
-║                Kaggle Grandmaster ×2 | 30+ Competitions            
+║                Kaggle Grandmaster | 30+ Competitions            
 ║                                                                   
 ║   PHASE 3 ✅   Deep Learning & Computer Vision                    
 ║   ──────────   TensorFlow · PyTorch · CNNs · LSTMs · NLP          
@@ -205,7 +204,6 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 
 <br/>
 
-![Kaggle Grandmaster](https://img.shields.io/badge/🥇%20Kaggle%20Grandmaster%20×2-Datasets%20%26%20Notebooks-FFD700?style=for-the-badge&labelColor=1a1a2e)
 ![LinkedIn Top 1%](https://img.shields.io/badge/📌%20LinkedIn%20Top%201%25-AI%20Content%20Creator-0A66C2?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
@@ -222,7 +220,7 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 
 | 🏆 | Achievement | 🎯 Impact |
 |:---:|:---|:---:|
-| 🥇 | **`KAGGLE GRANDMASTER ×2`** — Datasets & Notebooks | 🌍 Global Top Tier |
+| 🥇 | **`KAGGLE GRANDMASTER`** — Datasets | 🌍 Global Top Tier |
 | 📌 | **`TOP 1% LINKEDIN`** — AI Content Creator | 📢 Massive Reach |
 | 🎓 | **`STANFORD CODE IN PLACE`** — Selected Twice | 🎯 66,000+ Applicants |
 | 💻 | **`TOP 1% LEETCODE`** — 150+ Problems Solved | ⚡ Elite Coder |

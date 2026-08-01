@@ -1,13 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Mirza%20Yasir%20Abdullah%20Baig&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Kaggle%20Grandmaster%20%E2%80%A2%20GenAI%20Content%20Creator&descAlignY=58&descSize=18&descColor=60a5fa"/>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Mirza%20Yasir%20Abdullah%20Baig&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Kaggle%20Grandmaster%20%E2%80%A2%20%231%20on%20lablab.ai%20%E2%80%A2%20GenAI%20Content%20Creator&descAlignY=58&descSize=16&descColor=60a5fa"/>
 
 <div align="center">
 
 <a href="https://rankistan.dev/users/mirzayasirabdullahbaig07">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fmirzayasirabdullahbaig07&style=flat-square" alt="Rankistan Rank Badge" />
 </a>
-
 
 <br/>
 
@@ -21,8 +18,10 @@ Track my competitive programming rankings, university standing, and coding achie
 
 </div>
 
+<div align="center">
+
 <a href="https://github.com/mirzayasirabdullahbaig07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+Top+1%25+LeetCode;%F0%9F%9A%80+30%2B+Hackathons+%26+Kaggle+Competitions;%F0%9F%93%9A+13k%2B+Students+Mentored+%40+iCodeGuru;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+%7C+Top+1%25+LeetCode;%F0%9F%A5%87+%231+on+lablab.ai+Global+Leaderboard;%F0%9F%9A%80+30%2B+Hackathons+%26+20%2B+Kaggle+Competitions;%F0%9F%93%9A+13%2C900%2B+LinkedIn+Followers+%7C+12%2C000%2B+Students+Mentored;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,13 +29,16 @@ Track my competitive programming rankings, university standing, and coding achie
 [![GitHub](https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/mirzayasirabdullahbaig07)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=60a5fa)](https://yasirinsights.com/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://www.kaggle.com/mirzayasirabdullah07)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=60a5fa)](https://leetcode.com/u/mirzayasirabdullahbaig/)
+[![lablab.ai](https://img.shields.io/badge/-lablab.ai-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=60a5fa)](https://lablab.ai/u/@mirzayasirabdullahbaig)
 [![Medium](https://img.shields.io/badge/-Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=60a5fa)](https://medium.com/@mirzayasirabdullahbaig)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mirzayasirabdullahbaig07&color=2563eb&style=flat-square&label=Profile+Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/mirzayasirabdullahbaig07?style=flat-square&color=2563eb&label=Followers)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-13.9k%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
 <br/>
 
@@ -54,8 +56,8 @@ Track my competitive programming rankings, university standing, and coding achie
 name:         Mirza Yasir Abdullah Baig
 role:         AI/ML Engineer & GenAI Content Creator
 expertise:    Generative AI · Deep Learning · MLOps
-recognition:  Kaggle Grandmaster | Top 1% LeetCode
-achievements: 30+ Hackathons | Stanford Code in Place (×2)
+recognition:  Kaggle Grandmaster | #1 on lablab.ai | Top 1% LeetCode
+achievements: 30+ Hackathons | Stanford Code in Place (x2)
 mentorship:   12,000+ Students @iCodeGuru & DSGuru
 location:     Lahore, Pakistan 🇵🇰
 website:      yasirinsights.com
@@ -66,7 +68,7 @@ status:       Building. Competing. Mentoring. Growing.
 
 I don't just write code — I **engineer intelligence**.
 
-From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guiding 12,000+ students in AI, I push boundaries with every model, every commit, and every lesson.
+From training CNNs that hit 95%+ accuracy to ranking **#1 on the lablab.ai leaderboard**, holding **Kaggle Grandmaster** status, and guiding 12,000+ students in AI, I push boundaries with every model, every commit, and every lesson.
 
 > *"Every dataset tells a story. Every model reveals it. Every deployment makes it matter."*
 
@@ -74,17 +76,34 @@ From training CNNs that hit 95% accuracy to competing in 30+ hackathons and guid
 
 ---
 
+## ◈ &nbsp; Top Highlights At a Glance
+
+<div align="center">
+
+| 🏆 | Platform | Standing |
+|:---:|:---|:---|
+| 🥇 | **Kaggle** | Grandmaster (Datasets) · Silver Medal — 2026 NeuroGolf Championship (63rd/2,963 teams) |
+| 🥇 | **lablab.ai** | **#1 on the global leaderboard** · 6,253 pts · Legend level · 16 hackathons attended |
+| 💻 | **LeetCode** | Top 1% · 187+ problems solved · 200-Day Badge · 96.77% acceptance |
+| ⌨️ | **Monkeytype** | 372-day streak · 102 WPM peak · 4,600+ tests completed |
+| 🦉 | **Duolingo** | 306-day streak · 26,261 XP · Pearl League |
+| 🎓 | **Stanford Code in Place** | Selected twice out of 66,000+ applicants |
+| 🔗 | **LinkedIn** | 13,900+ followers · Top 1% AI Content Creator |
+| 🧑‍🏫 | **Mentorship** | 12,000+ students @ iCodeGuru & DSGuru |
+
+</div>
+
+---
+
 ## ◈ &nbsp; About Me
 
 Mirza Yasir Abdullah Baig is an AI and Machine Learning Engineer from Pakistan with a strong passion for Generative AI, Deep Learning, Data Science, and Software Engineering. He specializes in building intelligent systems, developing machine learning solutions, and applying AI to solve real-world problems.
 
-With a solid foundation in Computer Science, Data Structures & Algorithms, Python, and modern AI frameworks, Mirza Yasir Abdullah Baig has worked on projects spanning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Generative AI. His expertise includes designing scalable AI applications, building ML pipelines, optimizing models, and transforming data into actionable insights.
+With a solid foundation in Computer Science, Data Structures & Algorithms, Python, and modern AI frameworks, he has worked across Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI — designing scalable AI applications, building ML pipelines, optimizing models, and transforming data into actionable insights.
 
-Beyond technical development, Mirza Yasir Abdullah Baig is an active participant in global AI and technology competitions. He has participated in numerous hackathons and innovation challenges on platforms such as Kaggle, Devpost, HackerRank, and LabLab.ai, collaborating with talented developers, researchers, and entrepreneurs from around the world. He has also taken part in competitive programming and coding competitions organized by prestigious institutions and communities, including MIT, Harvard, and Calico.
+He's an active participant in global AI and technology competitions, competing on Kaggle, lablab.ai, Devpost, and HackerRank, and has represented Pakistan in competitions organized by institutions including MIT, Harvard, and UC Berkeley (CALICO).
 
-As a dedicated AI Engineer, Mirza Yasir Abdullah Baig maintains an active presence across leading technology and data science platforms, continuously expanding his knowledge through competitions, research, and hands-on development. His involvement in Kaggle competitions, hackathons, and AI challenges reflects his commitment to lifelong learning and staying at the forefront of emerging technologies.
-
-Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI Software Engineer, leveraging Machine Learning, Deep Learning, and Generative AI to create innovative solutions with real-world impact. He is always open to collaborating with fellow engineers, researchers, startups, and organizations that share a passion for artificial intelligence and technological innovation.
+Currently, he's focused on advancing his career as an AI Software Engineer — leveraging Machine Learning, Deep Learning, and Generative AI to create innovative solutions with real-world impact, while remaining open to collaboration with engineers, researchers, startups, and organizations.
 
 ---
 
@@ -137,15 +156,87 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
-<br/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-5519-4bbb-b09c-acee9d5b9f2b.gif" width="80">
+---
+
+## ◈ &nbsp; Currently Competing On Kaggle
+
+<div align="center">
+
+| # | Competition | Status |
+|:---:|:---|:---|
+| 1 | [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) | Ongoing · 20 / 4,140 |
+| 2 | [Predicting Student Health Risk](https://www.kaggle.com/competitions/playground-series-s6e7) | 12h ago · 416 / 3,355 |
+| 3 | [The Pokémon Company — PTCG AI Battle Challenge Simulation](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) | 15 days to go · 920 / 6,090 |
+| 4 | [AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | 1 month to go · 1,004 / 2,640 |
+| 5 | [ROGII — Wellbore Geology Prediction](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction) | 4 days to go · 1,045 / 6,034 |
+
+<sub>+ 15 more active competitions including ARC Prize 2026 (AGI-2 & AGI-3), Solar Filament Segmentation, Hyperspectral Object Tracking, and the Liquidity Arena AI Quant Trading Competition</sub>
+
+</div>
+
+---
+
+## ◈ &nbsp; Best 10 Projects
+
+<div align="center">
+
+| 🔬 Project | 🛠️ Tech | 🎯 Highlights |
+|:-----------|---------|--------------|
+| 🧠 [PaperBand AI](https://github.com/mirzayasirabdullahbaig07/PaperBand-AI) | Multi-agent · Groq LLaMA 3.3 | 3-agent research paper review pipeline |
+| 🛡️ [VanGuard — Open Web Threat Intelligence](https://github.com/mirzayasirabdullahbaig07/VanGuard) | React · Vite · Groq LLaMA 3.3 | Real-time threat dashboard, 3 detection modules |
+| 🎯 [Tumor Detection — YOLOv11 + SAM2](https://github.com/mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2) | YOLOv11 · SAM2 | Medical image tumor detection & segmentation |
+| 🦾 [Fine-Tuning LLaMA 3.2 (3B) with PEFT + LoRA](https://github.com/mirzayasirabdullahbaig07/Fine-Tuning-LLaMA-3.2-3B-Using-PEFT-LoRA) | PEFT · LoRA | Parameter-efficient LLM fine-tuning |
+| 🔍 [RepoPilot AI](https://github.com/mirzayasirabdullahbaig07/RepoPilot-AI) | Groq · GitHub API | AI-powered GitHub repo analysis & chat |
+| 🌾 [Rice Disease Prediction Model](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) | CNN · Streamlit | ~95% accuracy real-time classification |
+| 🔐 [PromptGuard-AI](https://github.com/mirzayasirabdullahbaig07/PromptGuard-AI) | RAG · Groq LLaMA 3.3 | Real-time adversarial prompt detection |
+| 📈 [Stock Market Trend Prediction](https://github.com/mirzayasirabdullahbaig07/StockMarket-Trend-Prediction-Model) | LSTM · Streamlit | Interactive stock forecasting demo |
+| ✍️ [MNIST Digit Classification Model](https://github.com/mirzayasirabdullahbaig07/MNIST_Digit_Classification_Model) | Scikit-learn · Gradio | Full handwritten digit recognition pipeline |
+| 🐛 [DevBug-AI](https://github.com/mirzayasirabdullahbaig07/DevBug-AI) | TF-IDF · LightGBM | Trained on 50,000+ bug reports for triage |
+
+</div>
+
+---
+
+## ◈ &nbsp; Best Certificates
+
+<div align="center">
+
+| 🎓 Certificate | Issuer | Date |
+|:---|:---|:---|
+| International Computer Science Competition 2026 | ICSC | Jul 2026 |
+| The 2026 NeuroGolf Championship — Silver Medal | Kaggle | Jul 2026 |
+| Machine Learning Specialization | Stanford Online / DeepLearning.AI | Aug 2025 |
+| Generative AI Engineering with LLMs | IBM | Dec 2025 |
+| Mathematics for Machine Learning and Data Science | DeepLearning.AI | Aug 2025 |
+| MLOps \| Machine Learning Operations | Duke University | Oct 2025 |
+| Data Structures and Algorithms (6-course) | UC San Diego | Jul 2025 |
+| Code In Place | Stanford University | Jun 2026 |
+| CALICO Contest Spring 2026 | UC Berkeley | Apr 2026 |
+| AI-Powered Software and System Design | DeepLearning.AI | Sep 2025 |
+
+<sub>Full list of 50+ certifications on <a href="https://www.linkedin.com/in/mirza-yasir-abdullah-baig/details/certifications/">LinkedIn</a></sub>
+
+</div>
+
+---
+
+## ◈ &nbsp; Competitive Stats
+
+<div align="center">
+
+### 🥇 lablab.ai — #1 on the Leaderboard
+`6,253 pts` · `Legend level` · `16 hackathons attended` · `15 submissions` · Badges: Hackathon Legend, 5x Hacker, Profile Pro
+
+### 💻 LeetCode — Top 1%
+`187/4,005 solved` · `96.77% acceptance` · `200-Day Badge` · Beats 81%+ on Medium/Hard problems
+
+### ⌨️ Monkeytype
+`372-day streak` · `102 WPM peak (15s)` · `4,661 tests started / 4,618 completed` · `157+ hours typed`
+
+### 🦉 Duolingo
+`306-day streak` · `26,261 XP` · `Pearl League` · `6 top-3 league finishes`
 
 </div>
 
@@ -164,7 +255,7 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 ║                                                                   
 ║   PHASE 2 ✅   Machine Learning & Data Science                    
 ║   ──────────   Scikit-learn · NumPy · Pandas · Matplotlib         
-║                Kaggle Grandmaster | 30+ Competitions            
+║                Kaggle Grandmaster | 20+ Active Competitions       
 ║                                                                   
 ║   PHASE 3 ✅   Deep Learning & Computer Vision                    
 ║   ──────────   TensorFlow · PyTorch · CNNs · LSTMs · NLP          
@@ -172,62 +263,10 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 ║                                                                   
 ║   PHASE 4 🔄   Generative AI & MLOps  (IN PROGRESS)              
 ║   ──────────   LLMs · RAG Pipelines · Agents · Cloud Deployment   
-║                Building intelligent production-ready AI systems    
+║                #1 on lablab.ai | Building production-ready AI      
 ║                                                                   
 ╚═══════════════════════════════════════════════════════════════════
 ```
-
----
-
-## ◈ &nbsp; Featured Projects
-
-<div align="center">
-
-| 🔬 Project | 🛠️ Tech | 🎯 Highlights |
-|:-----------|---------|--------------|
-| 🖼️ [Image Classification (CIFAR-10)](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model) | CNN · Streamlit | ~80–85% accuracy |
-| 📈 [Stock Market Trend Prediction](https://github.com/mirzayasirabdullahbaig07/StockMarket-Trend-Prediction-Model) | LSTM · Streamlit | Interactive demo |
-| 🌾 [Rice Disease Prediction](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) | CNN · Real-time analysis | ~95% accuracy |
-| 💬 [Sentiment Analysis](https://github.com/mirzayasirabdullahbaig07/Sentiment_Analysis_Model) | ML + DL Hybrid | ~85–90% accuracy |
-| 💰 [AIaaS Billing System](https://github.com/mirzayasirabdullahbaig07/AgentPay) | Gemini · Streamlit | Token-based AI monetization |
-| 🔍 [RAG Pipeline (AI Genesis)](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project) | RAG · LLM | Hackathon finalist project |
-
-</div>
-
----
-
-## ◈ &nbsp; Achievements & Recognition
-
-<div align="center">
-
-### 🏅 &nbsp; Hall of Fame
-
-<br/>
-
-![LinkedIn Top 1%](https://img.shields.io/badge/📌%20LinkedIn%20Top%201%25-AI%20Content%20Creator-0A66C2?style=for-the-badge&labelColor=1a1a2e)
-
-<br/>
-
-![Stanford](https://img.shields.io/badge/🎓%20Stanford%20Code%20in%20Place-Selected%20Twice%20%7C%2066k%2B%20Applicants-8B0000?style=for-the-badge&labelColor=1a1a2e)
-![LeetCode](https://img.shields.io/badge/💻%20LeetCode%20Top%201%25-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&labelColor=1a1a2e)
-
-<br/>
-
-![Hackathons](https://img.shields.io/badge/🚀%2030%2B%20Hackathons-Agentic%20Commerce%20%7C%20AI%20Genesis%20%7C%20GPT--5-60a5fa?style=for-the-badge&labelColor=1a1a2e)
-![Mentorship](https://img.shields.io/badge/🧑‍🏫%2012%2C000%2B%20Students%20Mentored-iCodeGuru%20%26%20DSGuru-22c55e?style=for-the-badge&labelColor=1a1a2e)
-
-<br/><br/>
-
-| 🏆 | Achievement | 🎯 Impact |
-|:---:|:---|:---:|
-| 🥇 | **`KAGGLE GRANDMASTER`** — Datasets | 🌍 Global Top Tier |
-| 📌 | **`TOP 1% LINKEDIN`** — AI Content Creator | 📢 Massive Reach |
-| 🎓 | **`STANFORD CODE IN PLACE`** — Selected Twice | 🎯 66,000+ Applicants |
-| 💻 | **`TOP 1% LEETCODE`** — 150+ Problems Solved | ⚡ Elite Coder |
-| 🚀 | **`30+ HACKATHONS`** — Agentic Commerce, AI Genesis & more | 🏅 Proven Builder |
-| 🧑‍🏫 | **`12,000+ STUDENTS MENTORED`** — @iCodeGuru & DSGuru | 💡 Community Leader |
-
-</div>
 
 ---
 
@@ -235,12 +274,10 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 
 <div align="center">
 
-<!-- Row 1: Streak full width -->
 <img width="70%" src="https://streak-stats.demolab.com?user=mirzayasirabdullahbaig07&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=a8b2d8" />
 
 <br/><br/>
 
-<!-- Row 2: Three cards side by side -->
 <table width="100%" border="0" cellspacing="4" cellpadding="0">
 <tr>
 <td width="33%" align="center">
@@ -257,39 +294,11 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 
 <br/>
 
-<!-- Row 3: Profile details full width -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirzayasirabdullahbaig07&theme=tokyonight" />
 
 <br/>
 
-<!-- Row 4: Contribution heatmap -->
 <img width="100%" src="https://ghchart.rshah.org/60a5fa/mirzayasirabdullahbaig07" />
-
-</div>
-
----
-
-## ◈ &nbsp; Currently Working On
-
-<div align="center">
-
-| 🔬 | What | Why |
-|:--:|------|-----|
-| 🤖 | Advanced Generative AI & LLM systems | Next frontier in AI engineering |
-| 🧪 | RAG pipelines & AI Agents | Production-grade intelligent apps |
-| 📊 | Kaggle competitions & open datasets | Stay sharp, stay competitive |
-| 🧑‍🏫 | AI mentorship & content creation | Give back to the community |
-| ☁️ | MLOps & cloud-based model deployment | Bridge research and production |
-
-</div>
-
----
-
-## ◈ &nbsp; Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
 
@@ -305,6 +314,10 @@ Currently, Mirza Yasir Abdullah Baig is focused on advancing his career as an AI
 &nbsp;
 <a href="https://www.kaggle.com/mirzayasirabdullah07">
   <img src="https://img.shields.io/badge/Kaggle-Grandmaster-60a5fa?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://lablab.ai/u/@mirzayasirabdullahbaig">
+  <img src="https://img.shields.io/badge/lablab.ai-%231%20Leaderboard-60a5fa?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://yasirinsights.com/">

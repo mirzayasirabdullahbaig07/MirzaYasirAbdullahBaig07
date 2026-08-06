@@ -58,7 +58,7 @@ role:         AI/ML Engineer & GenAI Content Creator
 expertise:    Generative AI · Deep Learning · MLOps
 recognition:  Kaggle Grandmaster | #1 on lablab.ai | Top 1% LeetCode
 achievements: 30+ Hackathons | Stanford Code in Place (x2)
-mentorship:   12,000+ Students @iCodeGuru & DSGuru
+mentorship:   Alot of Students @iCodeGuru & DSGuru
 location:     Lahore, Pakistan 🇵🇰
 website:      yasirinsights.com
 status:       Building. Competing. Mentoring. Growing.
@@ -68,7 +68,7 @@ status:       Building. Competing. Mentoring. Growing.
 
 I don't just write code — I **engineer intelligence**.
 
-From training CNNs that hit 95%+ accuracy to ranking **#1 on the lablab.ai leaderboard**, holding **Kaggle Grandmaster** status, and guiding 12,000+ students in AI, I push boundaries with every model, every commit, and every lesson.
+From training CNNs that hit 95%+ accuracy to ranking **#1 on the lablab.ai leaderboard**, holding **Kaggle Grandmaster** status, and guiding students in AI, I push boundaries with every model, every commit, and every lesson.
 
 > *"Every dataset tells a story. Every model reveals it. Every deployment makes it matter."*
 
@@ -89,7 +89,7 @@ From training CNNs that hit 95%+ accuracy to ranking **#1 on the lablab.ai leade
 | 🦉 | **Duolingo** | 306-day streak · 26,261 XP · Pearl League |
 | 🎓 | **Stanford Code in Place** | Selected twice out of 66,000+ applicants |
 | 🔗 | **LinkedIn** | 13,900+ followers · Top 1% AI Content Creator |
-| 🧑‍🏫 | **Mentorship** | 12,000+ students @ iCodeGuru & DSGuru |
+| 🧑‍🏫 | **Mentorship** | Alot of students @ iCodeGuru & DSGuru |
 
 </div>
 

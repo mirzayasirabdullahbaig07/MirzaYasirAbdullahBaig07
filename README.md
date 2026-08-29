@@ -38,7 +38,7 @@ Track my competitive programming rankings, university standing, and coding achie
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mirzayasirabdullahbaig07&color=2563eb&style=flat-square&label=Profile+Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/mirzayasirabdullahbaig07?style=flat-square&color=2563eb&label=Followers)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-13.9k%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-14.9k%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
 <br/>
 

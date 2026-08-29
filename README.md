@@ -21,7 +21,7 @@ Track my competitive programming rankings, university standing, and coding achie
 <div align="center">
 
 <a href="https://github.com/mirzayasirabdullahbaig07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+%7C+Top+1%25+LeetCode;%F0%9F%A5%87+%231+on+lablab.ai+Global+Leaderboard;%F0%9F%9A%80+30%2B+Hackathons+%26+20%2B+Kaggle+Competitions;%F0%9F%93%9A+13%2C900%2B+LinkedIn+Followers+%7C+12%2C000%2B+Students+Mentored;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+building+intelligent+systems;%F0%9F%8F%86+Kaggle+Grandmaster+%7C+Top+1%25+LeetCode;%F0%9F%A5%87+%231+on+lablab.ai+Global+Leaderboard;%F0%9F%9A%80+30%2B+Hackathons+%26+20%2B+Kaggle+Competitions;%F0%9F%93%9A+14%2C900%2B+LinkedIn+Followers+%7C+1%2C00%2B+Students+Mentored;%E2%9C%A8+Turning+data+into+intelligent+real-world+solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@ Track my competitive programming rankings, university standing, and coding achie
 [![GitHub](https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/mirzayasirabdullahbaig07)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=60a5fa)](https://yasirinsights.com/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://www.kaggle.com/mirzayasirabdullah07)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://www.kaggle.com/myab07)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=60a5fa)](https://leetcode.com/u/mirzayasirabdullahbaig/)
 [![lablab.ai](https://img.shields.io/badge/-lablab.ai-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=60a5fa)](https://lablab.ai/u/@mirzayasirabdullahbaig)
 [![Medium](https://img.shields.io/badge/-Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=60a5fa)](https://medium.com/@mirzayasirabdullahbaig)
